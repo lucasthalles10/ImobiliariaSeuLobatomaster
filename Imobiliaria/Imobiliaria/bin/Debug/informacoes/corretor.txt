@@ -1,0 +1,6 @@
+1+CorretorNomeA+CorretorEndA+(11)-1111+1000
+2+CorretorNomeB+CorretorEndB+(22)-2222+2000
+3+CorretorNomeC+CorretorEndC+(33)-3333+3000
+4+CorretorNomeD+CorretorEndD+(44)-4444+4000
+5+CorretorNomeE+CorretorEndE+(55)-5555+5000
+6+CorretorNomeA+CorretorEndF+(66)-6666+6000

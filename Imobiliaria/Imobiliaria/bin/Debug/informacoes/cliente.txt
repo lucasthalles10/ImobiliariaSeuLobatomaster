@@ -1,0 +1,6 @@
+1+ClienteNomeA+ClienteEndA+(11)-1111+11/11/1111
+2+ClienteNomeB+ClienteEndA+(22)-2222+22/22/2222
+3+ClienteNomeC+ClienteEndC+(33)-3333+33/33/3333
+4+ClienteNomeD+ClienteEndD+(44)-4444+44/44/4444
+5+ClienteNomeE+ClienteEndE+(55)-5555+55/55/5555
+6+ClienteNomeA+ClienteEndF+(66)-6666+66/66/6666

@@ -1,0 +1,6 @@
+﻿1+PropNomeA+PropEndA+(11)-1111
+2+PropNomeB+PropEndB+(22)-2222
+3+PropNomeC+PropEndC+(33)-3333
+4+PropNomeD+PropEndD+(44)-4444
+5+PropNomeE+PropEndE+(55)-5555
+6+PropNomeA+PropEndA+(66)-6666
